@@ -47,5 +47,10 @@ public class Bit {
         printBinary(a);
         printBinary(~a);
         System.out.println("----------------------------------------");
+
+
+        int u = 0b0100000;
+        System.out.println("Беззнаковый побитовый сдвиг вправо -- >>> " + u );
+        System.out.println(u >>> 1);
     }
 }
