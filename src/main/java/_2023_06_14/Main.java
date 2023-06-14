@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println(getInRadix(6119, 16));
+        System.out.println(getInRadix(63, 2));
  //       System.out.println(7 % 16);
     }
 
