@@ -31,5 +31,9 @@ public class Tesk1 {
         int w = 0x000007e8; //2024
         int e = 0x000000a0; //2016
         System.out.println(x & w);
+
+        while (a < b) {
+            //
+        }
     }
 }
