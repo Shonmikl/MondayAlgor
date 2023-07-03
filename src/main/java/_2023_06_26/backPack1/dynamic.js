@@ -21,7 +21,7 @@ function main() {
 
     console.log("Opt: ");
     for(const item of result) {
-       console.log(item)l;
+       console.log(item);
     }
 }
 
